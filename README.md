@@ -9,4 +9,9 @@ Here is the demo.
 
 Home page.
 
-![image](https://user-images.githubusercontent.com/80876092/222953684-c168ef18-1465-42b3-9645-a828266b89dd.png)
+![Screenshot (496)](https://user-images.githubusercontent.com/80876092/222953700-de383a17-0774-4452-a776-2864adcc6aac.png)
+
+
+when we click get another joke button...
+It gives another random joke.
+![Screenshot (495)](https://user-images.githubusercontent.com/80876092/222953794-12151680-e9b8-4203-9876-3cbe7bfef0fe.png)
